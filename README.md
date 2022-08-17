@@ -1,6 +1,6 @@
 # Hi, my name is Rodrigo.
 <pre>
-<strong>class</strong> <i>person</i>
+<strong>struct</strong> <i>person</i>
 {
   <strong>int</strong> <i>age</i> = 18;
   <strong>string</strong> <i>name</i> =        "Rodrigo Farinon";
