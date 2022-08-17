@@ -1,25 +1,42 @@
-Hi, my name is Rodrigo and i live in Brazil.
+# Hi, my name is Rodrigo.
+<pre>
+<strong>class</strong> <i>person</i>
+{
+  <strong>int</strong> <i>age</i> = 18;
+  <strong>string</strong> <i>name</i> =        "Rodrigo Farinon";
+  <strong>string</strong> <i>nationality</i> = "Brazilian";
+  <strong>string</strong> <i>residence</i> =   "Quixadá, CE - BR"
+  <strong>string</strong> <i>occupation</i> =  "Undergrarduate Student"; 
+  <strong>string</strong> <i>university</i> =  "Universidade Federal do Ceará(UFC) - Campus Quixadá";
+};
+</pre>
 
-·
+<h3><strong>Current Learning: </strong></h3>
 
-I'm highly interested in computational networking and software development :)
+<a href="https://github.com/Rodriggrr">
+<img width = "40px" height = "45px" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++">
+</a href>
 
-·
 
-Currently learning C++ language.
+<h4>I have some projects on my own, here are some of them:</h4>
 
-·
+[TERMO! Game](https://replit.com/@Rodriggrr/Termo#main.cpp)  | [Source Code](https://github.com/Rodriggrr/TERMO-Game)
 
-Interested in learning some more, always.
+[Snake Game](https://github.com/Rodriggrr/Snake-Game-2.0) | Only Source Code avaiable.
 
-·
+[2048 Game](https://replit.com/@Rodriggrr/Personal-PROJ?v=1) | [Source Code](https://github.com/Rodriggrr/Personal-PROJ/blob/main/2048.cpp)
 
-If you want to contact me, e-mail me in the below domain.
+[Blackjack! Game](https://replit.com/@Rodriggrr/Personal-PROJ?v=1) | [Source Code](https://github.com/Rodriggrr/Personal-PROJ/blob/main/blackjack.cpp)
 
-rodrigo.rdscomp@gmail.com
 
-·
+<h5> How to reach to me: </h5>
+<a href = "mailto: rodrigo.rdscomp@gmail.com">
+<img width = "47em" src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Gmail-icon.png" alt="C++">
+</a>
+<a href = "https://www.instagram.com/rodrigo_do_arrebol/">
+<img width = "45em" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
+</a>
+<h6>Have a nice day!</h6>
 
-Also addicted to Rocket League and FPS games haha ;D
-(And yes i also like Minecraft.)
+
 
