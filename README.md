@@ -31,7 +31,7 @@
 
 <h5> How to reach to me: </h5>
 <a href = "mailto: rodrigo.rdscomp@gmail.com">
-<img width = "47em" src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Gmail-icon.png" alt="C++">
+<img width = "47em" src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Gmail-icon.png">
 </a>
 <a href = "https://www.instagram.com/rodrigo_do_arrebol/">
 <img width = "45em" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
