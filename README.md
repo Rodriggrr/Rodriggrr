@@ -11,7 +11,7 @@
 };
 </pre>
 
-<h3><strong>Current Learning: </strong></h3>
+<h3><strong>Currently Learning: </strong></h3>
 
 <a href="https://github.com/Rodriggrr">
 <img width = "40px" height = "45px" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++">
