@@ -3,11 +3,11 @@
 <strong>struct</strong> <i>person</i>
 {
   <strong>int</strong> <i>age</i> = 18;
-  <strong>string</strong> <i>name</i> =        "Rodrigo Farinon";
+  <strong>string</strong> <i>name</i>        = "Rodrigo Farinon";
   <strong>string</strong> <i>nationality</i> = "Brazilian";
-  <strong>string</strong> <i>residence</i> =   "Quixadá, CE - BR"
-  <strong>string</strong> <i>occupation</i> =  "Undergrarduate Student"; 
-  <strong>string</strong> <i>university</i> =  "Universidade Federal do Ceará(UFC) - Campus Quixadá";
+  <strong>string</strong> <i>residence</i>   = "Quixadá, CE - BR"
+  <strong>string</strong> <i>occupation</i>  = "Undergrarduate Student"; 
+  <strong>string</strong> <i>university</i>  = "Universidade Federal do Ceará(UFC) - Campus Quixadá";
 };
 </pre>
 
