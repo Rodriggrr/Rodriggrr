@@ -17,6 +17,11 @@
 <img width = "40px" height = "45px" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++">
 </a href>
 
+<h4>My personal university repository:</h4>
+
+<a href="https://github.com/Rodriggrr/UFC">
+<img width = "78px" src="https://user-images.githubusercontent.com/103089400/188333845-0574e2fb-91c1-4ce3-be05-b788a20d0ee7.png" alt="C++">
+</a href>
 
 <h4>I have some projects on my own, here are some of them:</h4>
 
