@@ -35,7 +35,7 @@
 
 [Calculator (with Interface)](https://github.com/Rodriggrr/CalculatorWinAPI-Interface) | Source code and download avaiable.
 
-<h5> How to reach to me: </h5>
+<h5> How to reach me: </h5>
 <a href = "mailto: rodrigo.rdscomp@gmail.com">
 <img width = "47em" src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Gmail-icon.png">
 </a>
