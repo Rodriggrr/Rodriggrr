@@ -13,9 +13,22 @@
 
 <h3><strong>Currently Learning: </strong></h3>
 
-<a href="https://github.com/Rodriggrr">
-<img width = "40px" height = "45px" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++">
+<a href="https://www.mingw-w64.org/">
+  <img width = "40px" height = "45px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C"> 
 </a href>
+<a href="https://www.mingw-w64.org/">
+  <img width = "40px" height = "45px" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++"> 
+</a href>
+<a href="https://www.python.org/">
+  <img width = "45px" height = "45px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="Python">
+</a href>
+<a href="https://www.java.com/">
+  <img width = "75px" height = "45px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java">
+</a href>
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">
+  <img width = "45px" height = "45px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL">
+</a href>
+
 
 <h4>My personal university repository:</h4>
 
