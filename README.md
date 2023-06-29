@@ -29,6 +29,11 @@
   <img width = "45px" height = "45px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL">
 </a href>
 
+<h4> </h4>
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriggrr&show_icons=true&theme=dracula)
 
 <h4>My personal university repository:</h4>
 
