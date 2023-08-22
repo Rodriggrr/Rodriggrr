@@ -43,13 +43,13 @@
 
 <h4>I have some projects on my own, here are some of them:</h4>
 
-[TERMO! Game](https://replit.com/@Rodriggrr/Termo#main.cpp)  | [Source Code](https://github.com/Rodriggrr/TERMO-Game)
+[TERMO! Game](https://replit.com/@Rodriggrr/Termo#main.cpp)          | [Source Code](https://github.com/Rodriggrr/TERMO-Game)
 
-[Snake Game](https://github.com/Rodriggrr/Snake-Game-2.0) | Only Source Code avaiable.
+[Snake Game](https://github.com/Rodriggrr/Snake-Game-2.0)           | Only Source Code avaiable.
 
-[2048 Game](https://replit.com/@Rodriggrr/Personal-PROJ?v=1) | [Source Code](https://github.com/Rodriggrr/Personal-PROJ/blob/main/2048.cpp)
+[2048 Game](https://replit.com/@Rodriggrr/Personal-PROJ?v=1)        | [Source Code](https://github.com/Rodriggrr/Personal-PROJ/blob/main/2048.cpp)
 
-[Blackjack! Game](https://replit.com/@Rodriggrr/Personal-PROJ?v=1) | [Source Code](https://github.com/Rodriggrr/Personal-PROJ/blob/main/blackjack.cpp)
+[Blackjack! Game](https://replit.com/@Rodriggrr/Personal-PROJ?v=1)             | [Source Code](https://github.com/Rodriggrr/Personal-PROJ/blob/main/blackjack.cpp)
 
 [Calculator (with Interface)](https://github.com/Rodriggrr/CalculatorWinAPI-Interface) | Source code and download avaiable.
 
