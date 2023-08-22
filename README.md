@@ -31,8 +31,6 @@
 
 <h4> </h4>
 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriggrr&show_icons=true&theme=dracula)
 
 <h4>My personal university repository:</h4>
@@ -52,6 +50,7 @@
 | Calculator (WinAPI) | [Source Code](https://github.com/Rodriggrr/CalculatorWinAPI-Interface) |
 | Trial to RSA | [Source Code](https://github.com/Rodriggrr/RSA) |
 | Kp - The Kompiler | [Source Code](https://github.com/Rodriggrr/kp) |
+
 <h5> How to reach me: </h5>
 <a href = "mailto: rodrigo.rdscomp@gmail.com">
 <img width = "47em" src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Gmail-icon.png">
