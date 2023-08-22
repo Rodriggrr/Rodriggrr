@@ -51,7 +51,7 @@
 | [Blackjack! Game](https://replit.com/@Rodriggrr/Personal-PROJ?v=1) | [Source Code](https://github.com/Rodriggrr/Personal-PROJ/blob/main/blackjack.cpp) |
 | Calculator (WinAPI) | [Source Code](https://github.com/Rodriggrr/CalculatorWinAPI-Interface) |
 | Trial to RSA | [Source Code](https://github.com/Rodriggrr/RSA) |
-| KP - The Kompiler | [Source Code](https://github.com/Rodriggrr/kp) |
+| Kp - The Kompiler | [Source Code](https://github.com/Rodriggrr/kp) |
 <h5> How to reach me: </h5>
 <a href = "mailto: rodrigo.rdscomp@gmail.com">
 <img width = "47em" src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Gmail-icon.png">
