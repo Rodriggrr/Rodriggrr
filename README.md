@@ -1,4 +1,4 @@
-# Hi, my name is Rodrigo.
+  # Hi, my name is Rodrigo.
 <pre>
 <strong>struct</strong> <i>person</i>
 {
@@ -43,8 +43,8 @@
 
 <h4>I have some projects on my own, here are some of them:</h4>
 
-
-|:----:|:----:|
+| Projeto | Link Secundário |
+|:-------:|:---------------:|
 | [TERMO! Game](https://replit.com/@Rodriggrr/Termo#main.cpp) | [Source Code](https://github.com/Rodriggrr/TERMO-Game) |
 | [Snake Game](https://github.com/Rodriggrr/Snake-Game-2.0) | Only Source Code avaiable. |
 | [2048 Game](https://replit.com/@Rodriggrr/Personal-PROJ?v=1) | [Source Code](https://github.com/Rodriggrr/Personal-PROJ/blob/main/2048.cpp) |
