@@ -12,6 +12,10 @@ class Person {
 };
 ```
 
+<h4> </h4>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriggrr&show_icons=true&theme=dracula)
+
 ## Currently Learning:
 
 <a href="https://www.mingw-w64.org/">
@@ -29,10 +33,6 @@ class Person {
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">
   <img width = "45px" height = "45px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL">
 </a href>
-
-<h4> </h4>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriggrr&show_icons=true&theme=dracula)
 
 ## I have some projects on my own, here are some of them:
 
