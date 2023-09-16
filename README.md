@@ -1,17 +1,18 @@
-  # Hi, my name is Rodrigo.
-<pre>
-<strong>struct</strong> <i>person</i>
-{
-  <strong>int</strong> <i>age</i> = 18;
-  <strong>string</strong> <i>name</i>        = "Rodrigo Farinon";
-  <strong>string</strong> <i>nationality</i> = "Brazilian";
-  <strong>string</strong> <i>residence</i>   = "Quixadá, CE - BR"
-  <strong>string</strong> <i>occupation</i>  = "Undergraduate Student"; 
-  <strong>string</strong> <i>university</i>  = "Universidade Federal do Ceará(UFC) - Campus Quixadá";
-};
-</pre>
+# Hi, my name is Rodrigo.
 
-<h3><strong>Currently Learning: </strong></h3>
+```cpp
+class Person {
+  int age = 18;
+  std::string name         = "Rodrigo Farinon";
+  std::string nationallity = "Brazzilian";
+  std::string residence    = "Quixadá, CE - BR"
+  std::string occupation   = "Undergraduate Student"
+  std::string university   = "Universidade Federal do Ceará(UFC) - Campus Quixadá";
+  std::string course       = "Computer Networks";
+};
+```
+
+## Currently Learning:
 
 <a href="https://www.mingw-w64.org/">
   <img width = "40px" height = "45px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C"> 
@@ -33,13 +34,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriggrr&show_icons=true&theme=dracula)
 
-<h4>My personal university repository:</h4>
-
-<a href="https://github.com/Rodriggrr/UFC">
-<img width = "78px" src="https://user-images.githubusercontent.com/103089400/188333845-0574e2fb-91c1-4ce3-be05-b788a20d0ee7.png" alt="C++">
-</a href>
-
-<h4>I have some projects on my own, here are some of them:</h4>
+## I have some projects on my own, here are some of them:
 
 | Project | Source Code |
 |:--------|:--------------:|
@@ -52,14 +47,15 @@
 | Kp - The Kompiler | [Source Code](https://github.com/Rodriggrr/kp) |
 | Group Chat C++ | [Source Code](https://github.com/Rodriggrr/Group-Chat) |
 
-<h5> How to reach me: </h5>
+### University Repository:
+
+[![Image](https://user-images.githubusercontent.com/103089400/188333845-0574e2fb-91c1-4ce3-be05-b788a20d0ee7.png)](https://github.com/Rodriggrr/UFC)
+
+## How to reach me:
+
 <a href = "mailto: rodrigo.rdscomp@gmail.com">
 <img width = "47em" src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Gmail-icon.png">
 </a>
 <a href = "https://www.instagram.com/rodrigo_do_arrebol/">
 <img width = "45em" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
 </a>
-<h6>Have a nice day!</h6>
-
-
-
