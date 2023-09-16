@@ -50,6 +50,7 @@
 | Calculator (WinAPI) | [Source Code](https://github.com/Rodriggrr/CalculatorWinAPI-Interface) |
 | Trial to RSA | [Source Code](https://github.com/Rodriggrr/RSA) |
 | Kp - The Kompiler | [Source Code](https://github.com/Rodriggrr/kp) |
+| Group Chat C++ | [Source Code](https://github.com/Rodriggrr/Group-Chat) |
 
 <h5> How to reach me: </h5>
 <a href = "mailto: rodrigo.rdscomp@gmail.com">
