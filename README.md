@@ -2,13 +2,14 @@
 
 ```cpp
 class Person {
-  int age = 18;
+  unsigned short int age   = 20;
   std::string name         = "Rodrigo Farinon";
   std::string nationallity = "Brazillian";
   std::string residence    = "Quixadá, CE - BR"
   std::string occupation   = "Undergraduate Student"
   std::string university   = "Universidade Federal do Ceará(UFC) - Campus Quixadá";
   std::string course       = "Computer Networks";
+  unsigned int semester    = 5
 };
 ```
 
